@@ -1,2 +1,2 @@
 # shittyPS
-a (shitty) parameter server async communication framework
+a (shitty) parameter server framework for async communication in distributed machine learning
